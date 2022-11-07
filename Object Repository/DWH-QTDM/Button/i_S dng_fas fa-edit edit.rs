@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_S dng_fas fa-edit edit</name>
+   <tag></tag>
+   <elementGuidId>8d663708-e00d-4009-b142-3f7da24858af</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_content']/div/div/app-data-catalog/app-data-provider-management/div/div[2]/p-table/div/div/table/tbody/tr/td[7]/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-edit.edit</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>9232d561-3589-486e-a6f1-bd5f612093d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-edit edit</value>
+      <webElementGuid>cbec243d-565c-4ab3-9b85-f38a9d4e4c4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_content&quot;)/div[@class=&quot;d-flex flex-column-fluid&quot;]/div[@class=&quot;container-fluid&quot;]/app-data-catalog[1]/app-data-provider-management[1]/div[@class=&quot;card card-custom gutter-b&quot;]/div[@class=&quot;card-body&quot;]/p-table[1]/div[@class=&quot;p-datatable p-component&quot;]/div[@class=&quot;p-datatable-wrapper ng-star-inserted&quot;]/table[1]/tbody[@class=&quot;p-datatable-tbody&quot;]/tr[@class=&quot;ng-star-inserted&quot;]/td[@class=&quot;column-center&quot;]/a[@class=&quot;btn btn-link btn-hover-primary btn-sm mx-1 icon-action&quot;]/i[@class=&quot;fas fa-edit edit&quot;]</value>
+      <webElementGuid>988e5e1f-cf4f-4568-bbba-fb928138ca43</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_content']/div/div/app-data-catalog/app-data-provider-management/div/div[2]/p-table/div/div/table/tbody/tr/td[7]/a/i</value>
+      <webElementGuid>a2a24800-4c19-44af-a923-b9b9c5431191</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[7]/a/i</value>
+      <webElementGuid>acb0ae56-debb-4d1d-8e9c-cc09f8b7c56d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_S dng_fas fa-trash-alt delete</name>
+   <tag></tag>
+   <elementGuidId>05a4f3c4-b35f-4144-990f-90a7c3bf73c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_content']/div/div/app-data-catalog/app-data-provider-management/div/div[2]/p-table/div/div/table/tbody/tr/td[7]/a[2]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-trash-alt.delete</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>454b3e7e-8a90-409e-9708-bb59c4059520</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-trash-alt delete</value>
+      <webElementGuid>70287c64-8a8e-4b5b-be02-17ec1bbc528e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_content&quot;)/div[@class=&quot;d-flex flex-column-fluid&quot;]/div[@class=&quot;container-fluid&quot;]/app-data-catalog[1]/app-data-provider-management[1]/div[@class=&quot;card card-custom gutter-b&quot;]/div[@class=&quot;card-body&quot;]/p-table[1]/div[@class=&quot;p-datatable p-component&quot;]/div[@class=&quot;p-datatable-wrapper ng-star-inserted&quot;]/table[1]/tbody[@class=&quot;p-datatable-tbody&quot;]/tr[@class=&quot;ng-star-inserted&quot;]/td[@class=&quot;column-center&quot;]/a[@class=&quot;btn btn-link btn-hover-danger btn-sm icon-action&quot;]/i[@class=&quot;fas fa-trash-alt delete&quot;]</value>
+      <webElementGuid>5e3b56aa-84f9-41dd-851b-769e36d9b967</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_content']/div/div/app-data-catalog/app-data-provider-management/div/div[2]/p-table/div/div/table/tbody/tr/td[7]/a[2]/i</value>
+      <webElementGuid>7129af54-e4bc-4533-80f8-f0859fc49a7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/i</value>
+      <webElementGuid>c2acb9cc-ff62-46db-bd7b-d6dba59c23cb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Qun l danh mc ngun d liu</name>
+   <tag></tag>
+   <elementGuidId>904b89fb-6f03-427d-9a60-a7f0e7668369</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_aside_menu']/ul/li[2]/div/ul/li[3]/div/ul/li[2]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0b02bec1-1238-4976-a2fe-781e85075dad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-text</value>
+      <webElementGuid>3b9b380b-74a5-4f09-a657-f584792baa52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-translate</name>
+      <type>Main</type>
+      <value>Quản lý danh mục nguồn dữ liệu</value>
+      <webElementGuid>95629539-408b-4fab-9441-0f38af472478</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Quản lý danh mục nguồn dữ liệu</value>
+      <webElementGuid>a51e912d-1c5b-4ae1-95fb-247931fa47bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_aside_menu&quot;)/ul[@class=&quot;menu-nav&quot;]/li[@class=&quot;menu-item menu-item-submenu menu-item-open&quot;]/div[@class=&quot;menu-submenu&quot;]/ul[@class=&quot;menu-subnav&quot;]/li[@class=&quot;menu-item menu-item-submenu menu-item-open&quot;]/div[@class=&quot;menu-submenu&quot;]/ul[@class=&quot;menu-subnav&quot;]/li[@class=&quot;menu-item&quot;]/a[@class=&quot;menu-link&quot;]/span[@class=&quot;menu-text&quot;]</value>
+      <webElementGuid>358fd829-28f2-4569-89f2-d358556fc5c1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_aside_menu']/ul/li[2]/div/ul/li[3]/div/ul/li[2]/a/span</value>
+      <webElementGuid>5ef5755f-e6e5-4e1d-8800-f4689c171ef2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quản lý danh mục nguồn khai thác'])[1]/following::span[2]</value>
+      <webElementGuid>ca770493-2b02-49a3-a00d-ab1867afef4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Danh mục thủ tục hành chính'])[1]/following::span[4]</value>
+      <webElementGuid>b37424fd-3c40-430e-8e05-973f28dc45e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quản lý đồng bộ lĩnh vực thủ tục hành chính'])[1]/preceding::span[2]</value>
+      <webElementGuid>e6b133f1-3e59-4caf-9577-830d5885d980</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quản lý đồng bộ thủ tục hành chính'])[1]/preceding::span[4]</value>
+      <webElementGuid>46c16248-3905-4f8c-8d50-d5856ac1aa02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Quản lý danh mục nguồn dữ liệu']/parent::*</value>
+      <webElementGuid>3efc8793-2208-4070-a05a-1bd35188adc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/ul/li[3]/div/ul/li[2]/a/span</value>
+      <webElementGuid>8cb043b1-2c08-4615-888c-7e6ff5ee37b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Quản lý danh mục nguồn dữ liệu' or . = 'Quản lý danh mục nguồn dữ liệu')]</value>
+      <webElementGuid>18794198-6ee4-49f2-a79e-0765d2435a2f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
