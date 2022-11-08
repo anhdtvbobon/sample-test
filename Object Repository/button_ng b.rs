@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_ng b</name>
+   <tag></tag>
+   <elementGuidId>43fa3218-bca4-4030-a59f-c2f1b744e110</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.p-button-outlined.btn.btn-sync.font-weight-bolder.font-size-sm.mr-1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5b0eb702-facf-4c67-9a2b-10b843dd81c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ab83316b-5fa2-439c-99c5-1fb8852621ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-button-outlined btn btn-sync font-weight-bolder font-size-sm mr-1</value>
+      <webElementGuid>aa63325f-1dc0-4f61-968f-72bb9d9e02ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Đồng bộ </value>
+      <webElementGuid>480d2a29-9d97-4a63-875f-19103a2ec863</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_content&quot;)/div[@class=&quot;d-flex flex-column-fluid&quot;]/div[@class=&quot;container-fluid&quot;]/app-administrative-procedures[@class=&quot;ng-star-inserted&quot;]/app-sync-administrative-procedures[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;card card-custom gutter-b&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;form form-label-right&quot;]/div[@class=&quot;form-group row ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;col-4 col-lg-6 mr-botton-10&quot;]/button[@class=&quot;p-button-outlined btn btn-sync font-weight-bolder font-size-sm mr-1&quot;]</value>
+      <webElementGuid>bac6cbd4-ab98-4edb-8b09-b76221909d23</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>d382a58c-3818-43f1-ab0c-edab91b5868e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_content']/div/div/app-administrative-procedures/app-sync-administrative-procedures/div/div[2]/div/div/div/button[2]</value>
+      <webElementGuid>090a8cc0-c17f-4ca4-ad5c-e0b2046fcf02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lọc'])[1]/following::button[1]</value>
+      <webElementGuid>2751c79b-7cc9-4644-844a-c9928b4e1972</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quản lý đồng bộ lĩnh vực thủ tục hành chính'])[2]/following::button[2]</value>
+      <webElementGuid>cdabec57-b5cb-4950-8d32-857512f39395</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tìm kiếm'])[1]/preceding::button[1]</value>
+      <webElementGuid>c7b308cb-4d7b-40b7-bf15-34b8ad754a64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='STT'])[1]/preceding::button[2]</value>
+      <webElementGuid>c6339342-d00a-45fe-973d-219d67346628</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Đồng bộ']/parent::*</value>
+      <webElementGuid>c2be654e-58be-4b2d-9de3-1464784e9b79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/button[2]</value>
+      <webElementGuid>7bc26351-3826-42a2-bc5c-90a9cc7da84b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Đồng bộ ' or . = ' Đồng bộ ')]</value>
+      <webElementGuid>2013be25-c202-4d85-a62e-a875d9851a00</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

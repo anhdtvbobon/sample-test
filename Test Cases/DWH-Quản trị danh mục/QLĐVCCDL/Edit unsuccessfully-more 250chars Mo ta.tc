@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Chỉnh sửa danh mục đơn vị cung cấp dữ liệu không thành công khi nhập thông tin có nhiều hơn 250 ký tự tại trường thông tin &quot;Mô tả&quot;</description>
+   <name>Edit unsuccessfully-more 250chars Mo ta</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d518d000-9749-4c10-878e-e8a41163194d</testCaseGuid>
+</TestCaseEntity>

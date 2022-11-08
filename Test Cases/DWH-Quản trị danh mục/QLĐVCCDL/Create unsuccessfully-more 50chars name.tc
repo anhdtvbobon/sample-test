@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Thêm mới không thành công khi nhập quá 50 ký tự tại trường &quot;Tên đơn vị&quot;</description>
+   <name>Create unsuccessfully-more 50chars name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>31add44a-4a5a-4b65-a8ee-32c6ecac029c</testCaseGuid>
+</TestCaseEntity>
