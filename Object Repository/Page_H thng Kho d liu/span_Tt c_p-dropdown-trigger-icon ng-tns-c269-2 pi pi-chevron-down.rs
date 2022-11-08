@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Tt c_p-dropdown-trigger-icon ng-tns-c269-2 pi pi-chevron-down</name>
+   <tag></tag>
+   <elementGuidId>a6873eb9-1047-4266-b71d-29debe16c820</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_content']/div/div/app-data-catalog/app-data-provider-management/div/div[2]/p-table/div/div/table/thead/tr[2]/th[6]/p-columnfilter/div/p-columnfilterformelement/p-dropdown/div/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.p-dropdown-trigger-icon.ng-tns-c269-2.pi.pi-chevron-down</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>357d78a9-b4bc-44f2-936e-5be85af69170</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-dropdown-trigger-icon ng-tns-c269-2 pi pi-chevron-down</value>
+      <webElementGuid>38485209-59a2-457c-be96-48144c4b7dad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>pi pi-chevron-down</value>
+      <webElementGuid>c455bb41-61e2-4c31-b85e-6a4f3849a98d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_content&quot;)/div[@class=&quot;d-flex flex-column-fluid&quot;]/div[@class=&quot;container-fluid&quot;]/app-data-catalog[1]/app-data-provider-management[1]/div[@class=&quot;card card-custom gutter-b&quot;]/div[@class=&quot;card-body&quot;]/p-table[1]/div[@class=&quot;p-datatable p-component&quot;]/div[@class=&quot;p-datatable-wrapper ng-star-inserted&quot;]/table[1]/thead[@class=&quot;p-datatable-thead&quot;]/tr[@class=&quot;ng-star-inserted&quot;]/th[6]/p-columnfilter[@class=&quot;ng-tns-c301-1&quot;]/div[@class=&quot;p-column-filter ng-tns-c301-1 p-column-filter-row&quot;]/p-columnfilterformelement[@class=&quot;p-fluid ng-tns-c301-1 ng-star-inserted&quot;]/p-dropdown[@class=&quot;ng-tns-c269-2 p-inputwrapper-filled ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c269-2 p-dropdown p-component&quot;]/div[@class=&quot;p-dropdown-trigger ng-tns-c269-2&quot;]/span[@class=&quot;p-dropdown-trigger-icon ng-tns-c269-2 pi pi-chevron-down&quot;]</value>
+      <webElementGuid>2a72a4ef-c09d-4b3b-affc-6dfb777e86f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8003db9d-afa4-4563-b48e-a832324c4dd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-dropdown-trigger-icon ng-tns-c269-2 pi pi-chevron-down</value>
+      <webElementGuid>738b93f2-b16f-4059-afe1-c175c3e3a1fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>pi pi-chevron-down</value>
+      <webElementGuid>8348bdec-e39a-484d-ab93-9f49f742962c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_content&quot;)/div[@class=&quot;d-flex flex-column-fluid&quot;]/div[@class=&quot;container-fluid&quot;]/app-data-catalog[1]/app-data-provider-management[1]/div[@class=&quot;card card-custom gutter-b&quot;]/div[@class=&quot;card-body&quot;]/p-table[1]/div[@class=&quot;p-datatable p-component&quot;]/div[@class=&quot;p-datatable-wrapper ng-star-inserted&quot;]/table[1]/thead[@class=&quot;p-datatable-thead&quot;]/tr[@class=&quot;ng-star-inserted&quot;]/th[6]/p-columnfilter[@class=&quot;ng-tns-c301-1&quot;]/div[@class=&quot;p-column-filter ng-tns-c301-1 p-column-filter-row&quot;]/p-columnfilterformelement[@class=&quot;p-fluid ng-tns-c301-1 ng-star-inserted&quot;]/p-dropdown[@class=&quot;ng-tns-c269-2 p-inputwrapper-filled ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c269-2 p-dropdown p-component&quot;]/div[@class=&quot;p-dropdown-trigger ng-tns-c269-2&quot;]/span[@class=&quot;p-dropdown-trigger-icon ng-tns-c269-2 pi pi-chevron-down&quot;]</value>
+      <webElementGuid>6d820d3d-28d7-4b9a-b072-bae865a92d65</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_content']/div/div/app-data-catalog/app-data-provider-management/div/div[2]/p-table/div/div/table/thead/tr[2]/th[6]/p-columnfilter/div/p-columnfilterformelement/p-dropdown/div/div[2]/span</value>
+      <webElementGuid>e270bfb6-3fc9-4794-9c39-fec1f4289e77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span</value>
+      <webElementGuid>926f6807-a2a9-4e2b-9ea6-23012b184a11</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

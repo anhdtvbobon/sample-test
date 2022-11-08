@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Danh mc d liu</name>
+   <tag></tag>
+   <elementGuidId>411895d1-b75c-4582-82eb-9fafa9796984</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_aside_menu']/ul/li[2]/div/ul/li[2]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.menu-subnav > li.menu-item.menu-item-submenu > a.menu-link.menu-toggle > span.menu-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5aa99387-7d5f-491a-905a-a95b7846076b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-text</value>
+      <webElementGuid>cb190de5-700b-477c-8567-39625797ac09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-translate</name>
+      <type>Main</type>
+      <value>Danh mục dữ liệu</value>
+      <webElementGuid>9a93d7bf-197d-4ffb-b8cc-182f8ecc1165</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Danh mục dữ liệu</value>
+      <webElementGuid>82f43dbf-62e4-49de-82bb-3269a744652e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_aside_menu&quot;)/ul[@class=&quot;menu-nav&quot;]/li[@class=&quot;menu-item menu-item-submenu menu-item-open&quot;]/div[@class=&quot;menu-submenu&quot;]/ul[@class=&quot;menu-subnav&quot;]/li[@class=&quot;menu-item menu-item-submenu&quot;]/a[@class=&quot;menu-link menu-toggle&quot;]/span[@class=&quot;menu-text&quot;]</value>
+      <webElementGuid>a1c83b87-45e4-44d4-99b5-449aea8dc9d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3c93395a-3d6f-4287-864b-1d757f2dc17e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-text</value>
+      <webElementGuid>8a9cdfdb-cd90-430c-a397-71db3ecf84b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-translate</name>
+      <type>Main</type>
+      <value>Danh mục dữ liệu</value>
+      <webElementGuid>e3c05a38-b45d-4516-a2d9-e098f08d0f32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Danh mục dữ liệu</value>
+      <webElementGuid>51d136ba-52c9-4441-83bb-6403d82129c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_aside_menu&quot;)/ul[@class=&quot;menu-nav&quot;]/li[@class=&quot;menu-item menu-item-submenu menu-item-open&quot;]/div[@class=&quot;menu-submenu&quot;]/ul[@class=&quot;menu-subnav&quot;]/li[@class=&quot;menu-item menu-item-submenu&quot;]/a[@class=&quot;menu-link menu-toggle&quot;]/span[@class=&quot;menu-text&quot;]</value>
+      <webElementGuid>bbaafb25-6dfe-41d7-af19-02641f7438e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e9bdbff9-8689-4a66-9255-7634d4f63436</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-text</value>
+      <webElementGuid>8340b136-b8d1-4224-90b9-46de3d4ef5c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-translate</name>
+      <type>Main</type>
+      <value>Danh mục dữ liệu</value>
+      <webElementGuid>5be001f6-8023-410e-9c29-9371d4d5060a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Danh mục dữ liệu</value>
+      <webElementGuid>730e5dd3-453d-44ea-971b-ffddf28f63ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_aside_menu&quot;)/ul[@class=&quot;menu-nav&quot;]/li[@class=&quot;menu-item menu-item-submenu menu-item-open&quot;]/div[@class=&quot;menu-submenu&quot;]/ul[@class=&quot;menu-subnav&quot;]/li[@class=&quot;menu-item menu-item-submenu&quot;]/a[@class=&quot;menu-link menu-toggle&quot;]/span[@class=&quot;menu-text&quot;]</value>
+      <webElementGuid>4e184750-1850-4b4f-8ddd-365e5d30584a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_aside_menu']/ul/li[2]/div/ul/li[2]/a/span</value>
+      <webElementGuid>0ecf3d67-e7e1-4315-a654-702089315eaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quản trị danh mục'])[2]/following::span[2]</value>
+      <webElementGuid>f149dfa8-bf38-47b3-b6ce-b122dc3bf3f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quản trị danh mục'])[1]/following::span[4]</value>
+      <webElementGuid>0d359508-12b6-4c69-9611-68c844701b9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quản lý đơn vị cung cấp dữ liệu'])[1]/preceding::span[2]</value>
+      <webElementGuid>0ac766e7-9544-4be9-9f01-2189ade52128</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quản lý danh mục loại dữ liệu'])[1]/preceding::span[4]</value>
+      <webElementGuid>089b5833-e45a-4e20-950c-dafd08d88150</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Danh mục dữ liệu']/parent::*</value>
+      <webElementGuid>136b52dd-bf3c-4e48-b55b-11e480622c8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/ul/li[2]/a/span</value>
+      <webElementGuid>3721db95-cc6a-4f8e-b26a-6ebd2de2a66a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Danh mục dữ liệu' or . = 'Danh mục dữ liệu')]</value>
+      <webElementGuid>5dd4b95b-dab8-4de4-9f0a-f7478731a05e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

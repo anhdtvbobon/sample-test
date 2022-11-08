@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_S dng</name>
+   <tag></tag>
+   <elementGuidId>7d62380a-cdc9-4e55-bff6-ddb8bdb31373</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_content']/div/div/app-data-catalog/app-data-provider-management/div/div[2]/p-table/div/div/table/thead/tr[2]/th[6]/p-columnfilter/div/p-columnfilterformelement/p-dropdown/div/div[3]/div/ul/p-dropdownitem[2]/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>99591ee4-8499-44f8-a523-6a8be0c01565</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>b6037f71-b6c6-40db-a5ba-0c5b93ff6c70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-style</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>878a8a3c-9715-4363-8be7-1e0247314283</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>70e95a83-b890-4ae7-8957-2edaf7fd320b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Sử dụng</value>
+      <webElementGuid>6afc3296-4c70-4e00-b1ec-c30d8c70865f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>466ed276-f3d8-4d0a-9f37-b7c125f94bac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-dropdown-item p-ripple</value>
+      <webElementGuid>f6d4115d-fd38-49fa-9b10-7ef3a763181b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sử dụng</value>
+      <webElementGuid>4aee9aaa-cc23-4886-bf25-925edfea41fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_content&quot;)/div[@class=&quot;d-flex flex-column-fluid&quot;]/div[@class=&quot;container-fluid&quot;]/app-data-catalog[1]/app-data-provider-management[1]/div[@class=&quot;card card-custom gutter-b&quot;]/div[@class=&quot;card-body&quot;]/p-table[1]/div[@class=&quot;p-datatable p-component&quot;]/div[@class=&quot;p-datatable-wrapper ng-star-inserted&quot;]/table[1]/thead[@class=&quot;p-datatable-thead&quot;]/tr[@class=&quot;ng-star-inserted&quot;]/th[6]/p-columnfilter[@class=&quot;ng-tns-c301-1&quot;]/div[@class=&quot;p-column-filter ng-tns-c301-1 p-column-filter-row&quot;]/p-columnfilterformelement[@class=&quot;p-fluid ng-tns-c301-1 ng-star-inserted&quot;]/p-dropdown[@class=&quot;ng-tns-c269-2 p-inputwrapper-filled ng-star-inserted p-inputwrapper-focus&quot;]/div[@class=&quot;ng-tns-c269-2 p-dropdown p-component p-dropdown-open p-focus&quot;]/div[@class=&quot;ng-trigger ng-trigger-overlayAnimation ng-tns-c269-2 p-dropdown-panel p-component ng-star-inserted&quot;]/div[@class=&quot;p-dropdown-items-wrapper ng-tns-c269-2&quot;]/ul[@class=&quot;p-dropdown-items ng-tns-c269-2&quot;]/p-dropdownitem[@class=&quot;ng-tns-c269-2 ng-star-inserted&quot;]/li[@class=&quot;p-dropdown-item p-ripple&quot;]</value>
+      <webElementGuid>4d953b91-490d-4bfc-aac3-70cb072307f3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_content']/div/div/app-data-catalog/app-data-provider-management/div/div[2]/p-table/div/div/table/thead/tr[2]/th[6]/p-columnfilter/div/p-columnfilterformelement/p-dropdown/div/div[3]/div/ul/p-dropdownitem[2]/li</value>
+      <webElementGuid>bbc952d5-16a0-4d6c-8f67-995135f231fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tất cả'])[2]/following::li[1]</value>
+      <webElementGuid>a598aa95-7f63-4436-bcec-439fce2dbaba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tất cả'])[1]/following::li[2]</value>
+      <webElementGuid>12fae1a8-1935-49a4-a1e1-0fd974c5e71b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Không sử dụng'])[1]/preceding::li[1]</value>
+      <webElementGuid>6300545d-9075-4949-a1b3-d5e4041371a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-dropdownitem[2]/li</value>
+      <webElementGuid>aadd785a-100b-4397-8a59-877fc0b7b51b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Sử dụng' or . = 'Sử dụng')]</value>
+      <webElementGuid>318470d6-5d56-465b-a467-f16dcaa8d54d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

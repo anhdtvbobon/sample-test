@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Tt c</name>
+   <tag></tag>
+   <elementGuidId>027190f0-c497-482c-b7d8-c00f5992f6c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_content']/div/div/app-data-catalog/app-data-provider-management/div/div[2]/p-table/div/div/table/thead/tr[2]/th[6]/p-columnfilter/div/p-columnfilterformelement/p-dropdown/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ng-tns-c269-2.p-dropdown-label.p-inputtext.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3a371f15-63d7-4b00-a8f5-94a7b1ed3393</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c269-2 p-dropdown-label p-inputtext ng-star-inserted</value>
+      <webElementGuid>757753dd-3101-45bf-8e82-2462103ba72e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>85b72015-8aaa-44b3-90e9-fa2cb33be0e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-tooltip-position</name>
+      <type>Main</type>
+      <value>right</value>
+      <webElementGuid>cbb540f3-fb03-4c40-985e-1063e6fdd5be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-position-style</name>
+      <type>Main</type>
+      <value>absolute</value>
+      <webElementGuid>cb0d6d94-b116-444d-8861-25ed2d70062c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tất cả</value>
+      <webElementGuid>bcd51da9-e96f-45dd-8b3d-efa046e8f6b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_content&quot;)/div[@class=&quot;d-flex flex-column-fluid&quot;]/div[@class=&quot;container-fluid&quot;]/app-data-catalog[1]/app-data-provider-management[1]/div[@class=&quot;card card-custom gutter-b&quot;]/div[@class=&quot;card-body&quot;]/p-table[1]/div[@class=&quot;p-datatable p-component&quot;]/div[@class=&quot;p-datatable-wrapper ng-star-inserted&quot;]/table[1]/thead[@class=&quot;p-datatable-thead&quot;]/tr[@class=&quot;ng-star-inserted&quot;]/th[6]/p-columnfilter[@class=&quot;ng-tns-c301-1&quot;]/div[@class=&quot;p-column-filter ng-tns-c301-1 p-column-filter-row&quot;]/p-columnfilterformelement[@class=&quot;p-fluid ng-tns-c301-1 ng-star-inserted&quot;]/p-dropdown[@class=&quot;ng-tns-c269-2 p-inputwrapper-filled ng-star-inserted p-inputwrapper-focus&quot;]/div[@class=&quot;ng-tns-c269-2 p-dropdown p-component p-focus&quot;]/span[@class=&quot;ng-tns-c269-2 p-dropdown-label p-inputtext ng-star-inserted&quot;]</value>
+      <webElementGuid>7560bf81-7b9c-44de-8a2c-d0b44f5d6f1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b25b6516-c010-4bab-bf56-3c5baa8e00ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c269-2 p-dropdown-label p-inputtext ng-star-inserted</value>
+      <webElementGuid>f16ab43f-471c-47ef-879c-0bfb9f2cf7d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>fc0ce9c3-93f8-4fd6-8ea9-c103e6e8981b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-tooltip-position</name>
+      <type>Main</type>
+      <value>right</value>
+      <webElementGuid>7a0c06d5-0877-4544-bb79-60cd503882f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-position-style</name>
+      <type>Main</type>
+      <value>absolute</value>
+      <webElementGuid>dc26f0aa-df80-48dc-aa7a-05eb4f9ea530</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tất cả</value>
+      <webElementGuid>1ed0f44b-19e6-4509-a96b-8e6470d22d9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_content&quot;)/div[@class=&quot;d-flex flex-column-fluid&quot;]/div[@class=&quot;container-fluid&quot;]/app-data-catalog[1]/app-data-provider-management[1]/div[@class=&quot;card card-custom gutter-b&quot;]/div[@class=&quot;card-body&quot;]/p-table[1]/div[@class=&quot;p-datatable p-component&quot;]/div[@class=&quot;p-datatable-wrapper ng-star-inserted&quot;]/table[1]/thead[@class=&quot;p-datatable-thead&quot;]/tr[@class=&quot;ng-star-inserted&quot;]/th[6]/p-columnfilter[@class=&quot;ng-tns-c301-1&quot;]/div[@class=&quot;p-column-filter ng-tns-c301-1 p-column-filter-row&quot;]/p-columnfilterformelement[@class=&quot;p-fluid ng-tns-c301-1 ng-star-inserted&quot;]/p-dropdown[@class=&quot;ng-tns-c269-2 p-inputwrapper-filled ng-star-inserted p-inputwrapper-focus&quot;]/div[@class=&quot;ng-tns-c269-2 p-dropdown p-component p-focus&quot;]/span[@class=&quot;ng-tns-c269-2 p-dropdown-label p-inputtext ng-star-inserted&quot;]</value>
+      <webElementGuid>d109e014-7229-4c33-bca6-ac332ac49344</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_content']/div/div/app-data-catalog/app-data-provider-management/div/div[2]/p-table/div/div/table/thead/tr[2]/th[6]/p-columnfilter/div/p-columnfilterformelement/p-dropdown/div/span</value>
+      <webElementGuid>9bc90335-fe93-4868-a64f-42fd116e0a7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thao tác'])[1]/following::span[1]</value>
+      <webElementGuid>e1d0091d-64ed-4d9c-86ce-d811f71f760f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trạng thái'])[1]/following::span[1]</value>
+      <webElementGuid>55bf2026-5f92-43ca-8a4e-0c7c09e6e953</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đặng Thị Vân anh'])[1]/preceding::span[3]</value>
+      <webElementGuid>01901e71-ff1b-4e32-9813-a5c0287a725f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đặng Thị Vân anh'])[2]/preceding::span[3]</value>
+      <webElementGuid>adfb5bdb-8a0b-4318-a830-5c2dde7cbec3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tất cả']/parent::*</value>
+      <webElementGuid>5daeb9bb-1f4f-4e8a-b1d6-c64f4dceefc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-dropdown/div/span</value>
+      <webElementGuid>71ba5208-1006-4114-9295-be8a76964519</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Tất cả' or . = 'Tất cả')]</value>
+      <webElementGuid>5bc15fde-3861-420d-8e86-6cf199e55086</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
