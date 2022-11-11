@@ -1,20 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>btnSubmit</name>
+   <name>txtSearch</name>
    <tag></tag>
-   <elementGuidId>912f9d83-271b-48bc-a05b-053124a903d4</elementGuidId>
+   <elementGuidId>a310ba71-022f-4a05-a8e7-1f1b18e50481</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//input[@placeholder='Nhập mã đơn vị, tên đơn vị']</value>
       </entry>
       <entry>
          <key>BASIC</key>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//button[@role='button']</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -1,20 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>btnSubmit</name>
+   <name>txtVerify</name>
    <tag></tag>
-   <elementGuidId>912f9d83-271b-48bc-a05b-053124a903d4</elementGuidId>
+   <elementGuidId>442c4e18-d41f-4119-ba49-517ad165050d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;kt_content&quot;]/div/div/app-categories/app-data-catalog/app-data-provider-management/div/div[2]/p-table/div/div/table/tbody/tr[1]/td[3]</value>
       </entry>
       <entry>
          <key>BASIC</key>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//button[@role='button']</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

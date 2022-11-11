@@ -6,14 +6,17 @@
    <elementGuidId>0836c7c4-0b2b-4f5e-a9c7-0005b720e479</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
+         <key>CSS</key>
          <value></value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#password</value>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='password']</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>CSS</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
 </WebElementEntity>

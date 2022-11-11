@@ -1,20 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>btnSubmit</name>
+   <name>btnSearch</name>
    <tag></tag>
-   <elementGuidId>912f9d83-271b-48bc-a05b-053124a903d4</elementGuidId>
+   <elementGuidId>05310ded-5514-4e2b-bd8c-ebebb940afe7</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//button[@id='Search']</value>
       </entry>
       <entry>
          <key>BASIC</key>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//button[@role='button']</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
