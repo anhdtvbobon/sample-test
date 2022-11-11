@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Chỉnh sửa danh mục đơn vị cung cấp dữ liệu thành công khi nhập thông tin hợp lệ vào tất cả các trường thông tin</description>
-   <name>Edit successfully</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>253eb8ab-9fc6-43a9-86f4-8cc1d085168c</testCaseGuid>
-</TestCaseEntity>

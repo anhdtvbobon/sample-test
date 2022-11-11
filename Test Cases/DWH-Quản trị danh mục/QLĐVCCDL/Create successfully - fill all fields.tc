@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Thêm mới thành công khi nhập giá trị hợp lệ vào tất cả các trường</description>
-   <name>Create successfully - fill all fields</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>8381f56c-85b0-41c0-8de2-02d039062cde</testCaseGuid>
-</TestCaseEntity>
