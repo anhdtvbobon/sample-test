@@ -39,6 +39,8 @@ WebUI.verifyTextPresent('Bạn chắc chắn muốn xóa bản ghi đã chọn?'
 
 WebUI.click(findTestObject('1.QTND/1.1 PQMN/btnXoa1'), FailureHandling.STOP_ON_FAILURE)
 
+WebUI.delay(5)
+
 WebUI.verifyTextPresent('Xóa thành công!', false)
 
 WebUI.closeBrowser()
