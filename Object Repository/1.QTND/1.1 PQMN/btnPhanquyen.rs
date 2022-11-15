@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnPhanquyen</name>
+   <tag></tag>
+   <elementGuidId>a5d3c899-e2ed-4558-bd00-0e66ae2c3f3a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html[1]/body[1]/app-layout[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/app-content[1]/app-menu-role[1]/div[1]/div[2]/p-tabview[1]/div[1]/div[1]/p-tabpanel[1]/div[1]/div[1]/p-treetable[1]/div[1]/div[1]/table[1]/tbody[1]/tr[1]/td[3]/a[1]/i[1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

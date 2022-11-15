@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Thêm mới không thành công khi nhập mã đơn vị đã tồn tại</description>
-   <name>Create unsuccessfully-data existed</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>b11d9441-f620-47fc-b55e-13abe9787af5</testCaseGuid>
-</TestCaseEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_FE</name>
+   <tag></tag>
+   <elementGuidId>49cb4152-9640-4e9a-9f0d-edc4b43c4768</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ng-tns-c244-3.p-dropdown-label.p-inputtext.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='kt_body']/ngb-modal-window/div/div/app-edit-menu-management-modal/div/div[2]/form/div[4]/div/p-dropdown/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8fce6678-a023-4974-b3ce-7248e735a160</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c244-3 p-dropdown-label p-inputtext ng-star-inserted</value>
+      <webElementGuid>06fbdf7f-f3ec-4657-8d04-652d74be2c98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>FE</value>
+      <webElementGuid>13e2dc82-5f66-4550-88f6-19de9d1df8c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_body&quot;)/ngb-modal-window[@class=&quot;d-block modal fade show&quot;]/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content&quot;]/app-edit-menu-management-modal[1]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;overlay overlay-block cursor-default modal-body&quot;]/form[@class=&quot;form form-label-right ng-invalid ng-star-inserted ng-dirty ng-touched&quot;]/div[@class=&quot;form-group row&quot;]/div[@class=&quot;col-lg-9&quot;]/p-dropdown[@class=&quot;ng-tns-c244-3 is-valid p-inputwrapper-filled ng-dirty ng-valid ng-touched&quot;]/div[@class=&quot;ng-tns-c244-3 p-dropdown p-component&quot;]/span[@class=&quot;ng-tns-c244-3 p-dropdown-label p-inputtext ng-star-inserted&quot;]</value>
+      <webElementGuid>ddb86c4c-c0e3-4ca7-9321-4e0572e4929c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='kt_body']/ngb-modal-window/div/div/app-edit-menu-management-modal/div/div[2]/form/div[4]/div/p-dropdown/div/span</value>
+      <webElementGuid>f8863484-945d-4b4d-a551-166e883ee510</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ứng dụng'])[1]/following::span[1]</value>
+      <webElementGuid>5366140a-2d3d-4d77-b29a-d3a097fc56ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thông báo'])[1]/following::span[2]</value>
+      <webElementGuid>ede69b7b-fe9e-4fad-ad91-d7f8982607f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hợp lệ'])[1]/preceding::span[2]</value>
+      <webElementGuid>049cf45f-9668-4065-901f-86e0a0857bd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Biểu tượng'])[1]/preceding::span[2]</value>
+      <webElementGuid>4f2aa938-3665-4273-9dc7-1530f4c991ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='FE']/parent::*</value>
+      <webElementGuid>8feebdd9-f3c6-4d01-b264-11071cec09ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/p-dropdown/div/span</value>
+      <webElementGuid>4f0366d5-29ef-4bd4-8e9b-924150a3f673</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'FE' or . = 'FE')]</value>
+      <webElementGuid>0c3b4b84-d4b9-41a4-935d-750c1e316c0b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

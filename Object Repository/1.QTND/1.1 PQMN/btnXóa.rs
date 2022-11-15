@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnXóa</name>
+   <tag></tag>
+   <elementGuidId>077b3364-7334-475f-b2b1-a931d0064277</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html[1]/body[1]/ngb-modal-window[1]/div[1]/div[1]/app-add-menu-role-modal[1]/div[1]/div[2]/div[2]/table[1]/tbody[1]/tr[1]/td[5]/a[1]/i[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

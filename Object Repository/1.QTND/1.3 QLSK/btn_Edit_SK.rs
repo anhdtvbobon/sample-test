@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_Edit_SK</name>
+   <tag></tag>
+   <elementGuidId>293cc968-ab7e-4245-b635-d31e77c494e1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html[1]/body[1]/app-layout[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/app-content[1]/app-event[1]/div[1]/div[2]/p-table[1]/div[1]/div[1]/table[1]/tbody[1]/tr[1]/td[8]/a[1]/i[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>
