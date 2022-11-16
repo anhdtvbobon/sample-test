@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>li_Portal</name>
+   <name>mnu_HSCB</name>
    <tag></tag>
-   <elementGuidId>3dfa471b-f379-487d-8acf-db79f6c20db9</elementGuidId>
+   <elementGuidId>04796a66-d564-411c-a91b-85802a8368f1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//body[@id='kt_body']/ngb-modal-window/div/div/app-edit-menu-management-modal/div/div[2]/form/div[4]/div/p-dropdown/div/div[3]/div[2]/ul/p-dropdownitem/li</value>
+         <value>//span[contains(text(),'Quản lý hồ sơ cán bộ')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

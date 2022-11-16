@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>btn_Themmoi</name>
+   <name>mnuQTND</name>
    <tag></tag>
-   <elementGuidId>8d64b9ef-d231-4be3-aaac-1025549469b4</elementGuidId>
+   <elementGuidId>0a9bfd65-7537-404e-ae2e-494867e966d7</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@type='submit']</value>
+         <value>//a[@class='menu-link menu-toggle']//span[@class='menu-text'][contains(text(),'Quản trị nội dung')]</value>
       </entry>
       <entry>
          <key>BASIC</key>

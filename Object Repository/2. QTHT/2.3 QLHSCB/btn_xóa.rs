@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>li_Portal</name>
+   <name>btn_xóa</name>
    <tag></tag>
-   <elementGuidId>3dfa471b-f379-487d-8acf-db79f6c20db9</elementGuidId>
+   <elementGuidId>e4ccebe8-08d2-4b73-8be1-95e5f5b34016</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//body[@id='kt_body']/ngb-modal-window/div/div/app-edit-menu-management-modal/div/div[2]/form/div[4]/div/p-dropdown/div/div[3]/div[2]/ul/p-dropdownitem/li</value>
+         <value>/html[1]/body[1]/app-layout[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/app-system[1]/app-employee[1]/div[1]/div[2]/p-table[1]/div[1]/div[1]/table[1]/tbody[1]/tr[1]/td[9]/a[3]/i[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

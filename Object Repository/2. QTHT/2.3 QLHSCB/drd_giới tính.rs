@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>li_Portal</name>
+   <name>drd_giới tính</name>
    <tag></tag>
-   <elementGuidId>3dfa471b-f379-487d-8acf-db79f6c20db9</elementGuidId>
+   <elementGuidId>b763b1d8-dfe9-45a5-ac4e-5d9b7bbbb2cb</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//body[@id='kt_body']/ngb-modal-window/div/div/app-edit-menu-management-modal/div/div[2]/form/div[4]/div/p-dropdown/div/div[3]/div[2]/ul/p-dropdownitem/li</value>
+         <value>//span[@class='ng-tns-c246-54 p-dropdown-label p-inputtext ng-star-inserted']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

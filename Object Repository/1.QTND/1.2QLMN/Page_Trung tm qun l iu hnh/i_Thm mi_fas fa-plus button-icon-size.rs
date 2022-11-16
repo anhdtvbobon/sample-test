@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Thm mi_fas fa-plus button-icon-size</name>
+   <tag></tag>
+   <elementGuidId>58b97a43-3088-47e4-9767-03e2b65d5183</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_content']/div/div/app-content/app-menu-management/div/div/div[2]/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-plus.button-icon-size</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>80dae665-c8f6-4c99-887f-c9d9bf38019a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-plus button-icon-size</value>
+      <webElementGuid>2c0a240a-71fa-4b2f-bb79-165688e1ff10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_content&quot;)/div[@class=&quot;d-flex flex-column-fluid&quot;]/div[@class=&quot;container-fluid&quot;]/app-content[@class=&quot;management&quot;]/app-menu-management[1]/div[@class=&quot;card card-custom gutter-b&quot;]/div[@class=&quot;card-header&quot;]/div[@class=&quot;card-toolbar&quot;]/button[@class=&quot;btn btn-primary&quot;]/i[@class=&quot;fas fa-plus button-icon-size&quot;]</value>
+      <webElementGuid>b2c7838d-ed79-456c-9800-16e76ac91372</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_content']/div/div/app-content/app-menu-management/div/div/div[2]/button/i</value>
+      <webElementGuid>c9ea1d2b-6a29-4b64-8c10-30402e3b477e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/i</value>
+      <webElementGuid>da6beec0-8d41-4174-8e33-24a27091e41f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

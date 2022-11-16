@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>li_Portal</name>
+   <name>menu_QLCĐV</name>
    <tag></tag>
-   <elementGuidId>3dfa471b-f379-487d-8acf-db79f6c20db9</elementGuidId>
+   <elementGuidId>55dc6193-eda6-415e-91d7-4ce29a563f47</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//body[@id='kt_body']/ngb-modal-window/div/div/app-edit-menu-management-modal/div/div[2]/form/div[4]/div/p-dropdown/div/div[3]/div[2]/ul/p-dropdownitem/li</value>
+         <value>//span[contains(text(),'Quản lý cấp đơn vị')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

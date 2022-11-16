@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>li_Portal</name>
+   <name>btn_up_file_li</name>
    <tag></tag>
-   <elementGuidId>3dfa471b-f379-487d-8acf-db79f6c20db9</elementGuidId>
+   <elementGuidId>70655a10-cf96-4e9e-81ad-2a41d4e66a5f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//body[@id='kt_body']/ngb-modal-window/div/div/app-edit-menu-management-modal/div/div[2]/form/div[4]/div/p-dropdown/div/div[3]/div[2]/ul/p-dropdownitem/li</value>
+         <value>//label[@for='custom-file-upload']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
