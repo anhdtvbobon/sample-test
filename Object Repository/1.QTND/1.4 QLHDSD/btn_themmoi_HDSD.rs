@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@type='button']</value>
+         <value>//i[@class='fas fa-plus button-icon-size']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

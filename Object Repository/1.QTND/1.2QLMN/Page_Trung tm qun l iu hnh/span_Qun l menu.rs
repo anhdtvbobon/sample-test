@@ -3,15 +3,15 @@
    <description></description>
    <name>span_Qun l menu</name>
    <tag></tag>
-   <elementGuidId>d8382bd4-9791-4e35-9c9d-92d6d47d109d</elementGuidId>
+   <elementGuidId>097b855b-e8e8-412a-8787-fccabac5fa0a</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='kt_aside_menu']/ul/li[2]/div/ul/li[3]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>28222142-557e-4c00-8ecb-044a73e60aa6</webElementGuid>
+      <webElementGuid>491b8d36-0f9b-4494-9281-ba561e697531</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>menu-text</value>
-      <webElementGuid>ace66144-b071-4da8-bdc0-a2038bbc605f</webElementGuid>
+      <webElementGuid>de36225c-4850-4fbb-b635-0dd6c263342f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Quản lý menu</value>
-      <webElementGuid>69403ec9-ccd3-4661-94f6-44ab6bdbc9a5</webElementGuid>
+      <webElementGuid>15e959b2-c238-41b2-ab76-40d1371521a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;kt_aside_menu&quot;)/ul[@class=&quot;menu-nav&quot;]/li[@class=&quot;menu-item menu-item-submenu menu-item-open&quot;]/div[@class=&quot;menu-submenu&quot;]/ul[@class=&quot;menu-subnav&quot;]/li[@class=&quot;menu-item&quot;]/a[@class=&quot;menu-link&quot;]/span[@class=&quot;menu-text&quot;]</value>
-      <webElementGuid>77b34640-1c45-473a-9f5f-19c5e5307000</webElementGuid>
+      <webElementGuid>e1b42c1b-86d1-49fd-8149-6da3bb634f84</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='kt_aside_menu']/ul/li[2]/div/ul/li[3]/a/span</value>
-      <webElementGuid>3fa8648f-6044-4f30-9eac-5d7737d91cf2</webElementGuid>
+      <webElementGuid>5aad2f1e-aca7-44f6-98e0-a2497db57620</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Phân quyền menu'])[1]/following::span[2]</value>
-      <webElementGuid>5be82a5e-2d01-4a14-8424-8a4aee0d3c50</webElementGuid>
+      <webElementGuid>6e3dc854-ba9f-40f6-a2e2-d82cf3bed7a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Quản trị nội dung'])[2]/following::span[4]</value>
-      <webElementGuid>3cd13fce-3b92-4a58-bc0a-476319337ef9</webElementGuid>
+      <webElementGuid>d8accec1-90bf-4083-8210-2888b60c7ff3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Quản lý sự kiện'])[1]/preceding::span[2]</value>
-      <webElementGuid>83329abf-6c23-487d-aadc-cb608ea561f0</webElementGuid>
+      <webElementGuid>35fc9a75-7f96-46f8-9742-5ce1aa29b21e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Quản lý hướng dẫn sử dụng'])[1]/preceding::span[4]</value>
-      <webElementGuid>66ea28cc-d9a1-4794-b19c-0895fd7a714c</webElementGuid>
+      <webElementGuid>d9e1cbd1-ace8-4a51-840b-d432d311a9ab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Quản lý menu']/parent::*</value>
-      <webElementGuid>a0b09518-b73c-4b2a-a258-c104a40b1ae3</webElementGuid>
+      <webElementGuid>5a3f067c-5daa-426d-9e99-228d11af3247</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]/div/ul/li[3]/a/span</value>
-      <webElementGuid>eac12750-cae5-4b24-b7cf-60a3238f5b6d</webElementGuid>
+      <webElementGuid>7cff8b80-70fb-4174-b512-a87d7e14ec86</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Quản lý menu' or . = 'Quản lý menu')]</value>
-      <webElementGuid>d379ce6c-de85-4455-bb7f-7144e42efdc2</webElementGuid>
+      <webElementGuid>4d7877e5-6f85-4f6d-84aa-e90655c5889a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

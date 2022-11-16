@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//span[@class='p-dropdown-trigger-icon ng-tns-c244-29 pi pi-chevron-down']</value>
+         <value>//span[@class='ng-tns-c244-10 p-dropdown-label p-inputtext ng-star-inserted']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html[1]/body[1]/ngb-modal-window[1]/div[1]/div[1]/app-add-menu-role-modal[1]/div[1]/div[2]/div[2]/table[1]/tbody[1]/tr[1]/td[5]/a[1]/i[1]</value>
+         <value>//i[@class='fas fa-trash-alt delete']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

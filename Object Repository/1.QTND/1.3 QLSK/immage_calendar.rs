@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//span[@class='p-button-icon pi pi-calendar']</value>
+         <value>//span[@class='ng-tns-c251-20'][normalize-space()='22']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

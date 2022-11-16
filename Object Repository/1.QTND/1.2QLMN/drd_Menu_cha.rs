@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//span[@class='ng-tns-c244-19 p-dropdown-label p-inputtext p-placeholder ng-star-inserted']</value>
+         <value>//span[@class='ng-tns-c193-10 p-dropdown-label p-inputtext p-placeholder ng-star-inserted']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
